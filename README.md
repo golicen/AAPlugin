@@ -1,0 +1,2 @@
+# AAPlugin
+androidannotations by ASM
